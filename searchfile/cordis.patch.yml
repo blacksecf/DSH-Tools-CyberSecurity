@@ -1,0 +1,3 @@
+- insert:
+    - id: file-search
+      name: 'dsh-file-search'

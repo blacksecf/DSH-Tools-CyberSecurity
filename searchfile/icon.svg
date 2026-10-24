@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="File Search">
+  <defs>
+    <linearGradient id="bg" x1="8" y1="4" x2="56" y2="60" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3b82f6"/>
+      <stop offset="1" stop-color="#1d4ed8"/>
+    </linearGradient>
+    <linearGradient id="paper" x1="20" y1="17" x2="42" y2="46" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#dbeafe"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="60" height="60" rx="16" fill="url(#bg)"/>
+  <path d="M22 14h13l9 9v18a4 4 0 0 1-4 4H22a4 4 0 0 1-4-4V18a4 4 0 0 1 4-4Z" fill="url(#paper)" opacity=".96"/>
+  <path d="M35 14v9h9" fill="#bfdbfe"/>
+  <path d="M25 31h10M25 36h7" stroke="#3b82f6" stroke-width="2.4" stroke-linecap="round"/>
+  <circle cx="39" cy="38" r="10" fill="none" stroke="#ffffff" stroke-width="4.5"/>
+  <path d="m46.5 45.5 6 6" stroke="#ffffff" stroke-width="4.5" stroke-linecap="round"/>
+  <circle cx="39" cy="38" r="10" fill="none" stroke="#1e40af" stroke-opacity=".22" stroke-width="1.2"/>
+</svg>
