@@ -33,7 +33,7 @@
 
 | 插件 | 分类 | 简介 | 状态 | 文档 |
 |---|---|---|---|---|
-| [searchfile](../searchfile/README.zh-CN.md) | 本机效率 | 本机文件名搜索，支持悬浮窗、拖动、快捷键和绝对路径复制 | 可用 · v1.1.0 | [中文]([../searchfile/README.zh-CN.md](https://github.com/blacksecf/DSH-Tools-CyberSecurity/blob/main/searchfile/README.zh-CN.md)) · [English]([../searchfile/README.md](https://github.com/blacksecf/DSH-Tools-CyberSecurity/blob/main/searchfile/README.md)) · [源码](../searchfile/) |
+| [searchfile](../searchfile/README.zh-CN.md) | 本机效率 | 本机文件名搜索，支持悬浮窗、拖动、快捷键和绝对路径复制 | 可用 · v1.1.0 | [中文](../searchfile/README.zh-CN.md) · [English](../searchfile/README.md) · [源码](../searchfile/) |
 
 分类建议：本机效率、信息收集、资产测绘、漏洞验证、应急响应、报告整理。
 
